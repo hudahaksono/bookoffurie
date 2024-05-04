@@ -1716,6 +1716,108 @@ a {
 .cid-uaItG1j460 p {
   text-shadow: 1px 2px #a04300;
 }
+
+.back2 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/back2.png");
+}
+
+.back3 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/konten-back.png");
+}
+.back3 .mbr-fallback-image.disabled {
+  display: none;
+}
+.back3 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.back3 .item-mb {
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .back3 .item-mb {
+    margin-bottom: 1rem;
+  }
+}
+.back3 .item-wrapper {
+  background: #eb98eb;
+  padding: 2.25rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .back3 .item-wrapper {
+    padding: 2rem 1.5rem;
+    margin-bottom: 0rem;
+  }
+}
+@media (max-width: 767px) {
+  .back3 .item-wrapper {
+    padding: 2rem 1.5rem;
+    margin-bottom: 1rem;
+  }
+}
+.back3 .mbr-iconfont {
+  display: inline-flex;
+  font-size: 3rem;
+  color: #ffffff;
+  margin-bottom: 1rem;
+  width: 80px;
+  justify-content: center;
+  align-items: center;
+  background: #4b73ca;
+  height: 80px;
+  border-radius: 50%;
+}
+.back3 .mbr-section-title {
+  color: #4b73ca;
+}
+.back3 .mbr-section-subtitle {
+  color: #ffffff;
+}
+.back3 .card-box {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.back3 .card-box .item-footer {
+  margin-top: auto;
+}
+.back3 .content-head {
+  max-width: 800px;
+}
+.back3 .card-title,
+.back3 .iconfont-wrapper {
+  color: #4b73ca;
+  text-align: center;
+}
+.back3 .card-text,
+.back3 .item .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+.back3 h1,
+.back3 h2,
+.back3 h3,
+.back3 h4,
+.back3 h5 {
+  text-shadow: 2px 2px #000000;
+}
+.back3 a,
+.back3 p {
+  text-shadow: 1px 2px #a04300;
+}
+
 .cid-ua0ssvPTL4 {
   padding-top: 6rem;
   padding-bottom: 6rem;
